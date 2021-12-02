@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        System.out.println("hello team postman");
+        System.out.println("Training on java automated test");
     }
 }
